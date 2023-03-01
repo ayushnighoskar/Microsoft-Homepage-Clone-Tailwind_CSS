@@ -23,7 +23,7 @@ Future work for this project includes creating whole replica of the Microsoft We
 
 [Microsoft-Homepage-Live]()
 
-## Screenshot-
+## Screenshots-
 
 ![image](https://user-images.githubusercontent.com/48729682/222178013-e41f4fa4-f7b0-4abf-93cb-e716edf219d0.png)
 
