@@ -2,8 +2,6 @@
 
 I created a Microsoft homepage clone using HTML, CSS, and Tailwind CSS. This project involved replicating the design and layout of the Microsoft homepage, with a focus on using Tailwind CSS utility classes to style and position elements. The project includes responsive design, allowing the homepage to adapt to different screen sizes and devices. The use of Tailwind CSS utility classes allowed for efficient and streamlined development, and the result is a visually appealing and functional clone of the Microsoft homepage.
 
-
-
 ## Tech-Stack-
 
 <div align="left">
